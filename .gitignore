@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MuJoCo / exports
+exports/
+*.mjb
+*.stl
+*.step
+*.gif
+*.mp4
+*.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Локальные заметки
+notes/
+todo.md
+
